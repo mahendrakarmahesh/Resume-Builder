@@ -1,8 +1,8 @@
 ## Resume-Builder ✌️✌️✌️
 
 
-It is a resume generator web app which can build your resume by just simply fill the form of information
-You can also  print it also in pdf format 
+It is a web application that generates resumes with ease. By simply filling out a form with your information, you can create a professional-looking resume that can be printed in PDF format as well.
+
 Tech used :- HTML , CSS , JAVASCRIPT ,BOOTSTRAP
 
 Working 
@@ -11,11 +11,11 @@ Working
 -  Click to print and Download it 
 
 ### Features
-- Add button is used to add as  many Work experience  section
-- Add button is used to add as  many Education  
-- Print button to download resume
-- Clean Code 
-- Profile photo , email , phone no , contact no , github link , linkedin link , education , experience, skill , objective section included in the template. 
+- The 'Add' button is used to add as many work experience sections as needed.
+- The 'Add' button is used to add as many education sections as needed.  
+- The 'Print' button allows users to download their resume.
+- The code is clean and well-organized.
+- The template includes sections for a profile photo, email, phone number, contact number, GitHub link, LinkedIn link, education, experience, skills, and an objective statement. 
 
 # [DEMO](https://rishikavishnoi.github.io/Resume-Builder/)   👍❤️
 ** Note :- profile photo field is required **
